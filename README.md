@@ -11,5 +11,6 @@
 ```diff
 +password generator
 +gmail bruteforcer (guesses passwords till they work)
+-can take a while
 ```
 
