@@ -1,5 +1,5 @@
 # Date: 14/12/2024
-# Author: the_only_rb
+# Author: star_dev.
 # Description: A password generator
 
 
