@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Created by the_only_rb
+Created by star_dev.
 """
 
 import smtplib
