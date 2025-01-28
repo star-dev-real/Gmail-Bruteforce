@@ -9,13 +9,13 @@ from os import system
 
 def main():
     print('=================================================')
-    print('               Created by the_only_rb           ')
+    print('               Created by star_dev.         ')
     print('=================================================')
     print('               ++++++++++++++++++++              ')
     print('\n')
     print('  _,.                                            ')
     print('                                                 ')
-    print('           the_only_rb                                ')
+    print('           Star                               ')
     print('       _,.                   ')
     print('     ,` -.)                  ')
     print('    ( _/-\\-._               ')
